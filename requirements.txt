@@ -1,0 +1,9 @@
+
+psutil
+pandas
+matplotlib
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+plotly
